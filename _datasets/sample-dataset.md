@@ -21,5 +21,5 @@ category:
   - Digital University
 maintainer: Tim Wisniewski
 maintainer_email: tim@timwis.com
-tags: gino
+brand_name: Test Brand
 ---
