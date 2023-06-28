@@ -4,32 +4,71 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
-  - field_name: organization
-    label: Organization
-    form_template: form/organization.html
-    datajson: publisher.name
-  - field_name: notes
-    label: Description
-    form_template: form/textarea.html
-    datajson: description
   - field_name: license
     label: License
     form_template: form/license.html
     datajson: license
+  - field_name: organization
+    label: Organization
+    form_template: form/organization.html
+    datajson: publisher.name
   - field_name: category
     label: Category
     form_template: form/category.html
     display_template: display/category.html
     datajson: category
+  - field_name: trade_name
+    label: Trade Name
+    datajson: trade_name
+  - field_name: brand_name
+    label: Brand Name
+    datajson: brand_name
+  - field_name: manufacturer_name
+    label: Manufacturer Name
+    datajson: manufacturer_name
+  - field_name: manufacturer_registration_number
+    label: Manufacturer Registration Number
+    datajson: manufacturer_registration_number
+  - field_name: manufacturer_registration_country
+    label: Manufacturer Registration Country
+    datajson: manufacturer_registration_country
+  - field_name: image
+    label: Image
+    datajson: image
+  - field_name: type
+    label: Type
+    datajson: type
+  - field_name: domain
+    label: Domain
+    datajson: domain
+  - field_name: creation_date
+    label: Creation Date
+    datajson: creation_date
+  - field_name: updation_date
+    label: Updation Date
+    datajson: updation_date
+  - field_name: owner
+    label: Owner
+    datajson: owner
+  - field_name: status
+    label: Status
+    datajson: status
   - field_name: maintainer
     label: Maintainer
     datajson: contactPoint.fn
   - field_name: maintainer_email
     label: Maintainer Email
     datajson: contactPoint.hasEmail
-  - field_name: tags
-    label: Tags
-    datajson: tags
+  - field_name: reference_teleontology
+    label: Reference Teleontology
+    datajson: reference_teleontology
+  - field_name: reference_domain_language
+    label: Reference Domain Language
+    datajson: reference_domain_language
+  - field_name: notes
+    label: Description
+    form_template: form/textarea.html
+    datajson: description
 
 resource_fields:
   - field_name: name
