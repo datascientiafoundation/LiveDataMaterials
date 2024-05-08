@@ -1,15 +1,11 @@
-- name: Digital University
-  logo: /img/categories/education.svg
+- name: Automotive
+  logo: /img/categories/automotive.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Environment
-  logo: /img/categories/environment.svg
+- name: Wind Turbine
+  logo: /img/categories/wind.svg
   featured: true
-- name: Health
-  logo: /img/categories/health-human-services.svg
+- name: Printed Circuit Board
+  logo: /img/categories/pcb.svg
   logo_credit: Timothy Miller from the Noun Project
-  featured: true
-- name: Transportation
-  logo: /img/categories/transportation.svg
-  logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: true

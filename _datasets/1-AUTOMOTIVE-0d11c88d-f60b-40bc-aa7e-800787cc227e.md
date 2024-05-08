@@ -1,9 +1,9 @@
 ---
 schema: default
-title: Cross Beam 2RH
+title: Cross bar
 application: automotive
 category:
-  -  automotive
+  -  Automotive
 organization: Almas Partecipazioni Industriali SPA
 brand_name: N/A
 trade_name: N/A
@@ -12,4 +12,5 @@ manufacturer_registration_number: 9648111210
 manufacturer_registration_country: Italy
 status: active
 owner: CRF
+ontology: https://raw.githubusercontent.com/cambridge-cares/TheWorldAvatar/dev-composite-materials-ontology/JPS_Ontology/ontology/ontomatpassport/ontomatpassport.owl
 ---
