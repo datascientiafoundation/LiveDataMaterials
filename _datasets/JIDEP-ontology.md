@@ -8,7 +8,7 @@ resources:
     url: >-
       https://github.com/cambridge-cares/TheWorldAvatar/blob/dev-composite-materials-ontology/JPS_Ontology/ontology/ontomatpassport/OntoMatPassportAll.owl
     format: owl
-    reference_domain_language: <a style=text-decoration:underline href="">JIDEP Terminology</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataMaterials/datasets/JIDEP-terminology/">JIDEP Terminology</a>
     size: '142.2 KB'
 
 category:

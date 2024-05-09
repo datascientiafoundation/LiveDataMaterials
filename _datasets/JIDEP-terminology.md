@@ -6,7 +6,7 @@ notes: <span style='color:BlueViolet'>Language</span> - This is a language datas
 resources:
   - name: JIDEP Terminology
     url: >-
-      ./open_resources/OntoMatPassportAll.csv
+      https://github.com/datascientiafoundation/LiveDataMaterials/blob/gh-pages/open_resources/OntoMatPassportAll.csv
     format: csv
     modification_datetime: '15/04/2024'
     size: '33.2 KB'
