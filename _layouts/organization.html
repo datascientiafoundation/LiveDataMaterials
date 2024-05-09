@@ -18,6 +18,7 @@ layout: default
           {{ page.title }}
           <a href="?view=edit" class="float-right btn btn-outline-secondary admin-only">Edit</a>
         </h1>
+        <p><b>Website:</b> {{ page.website }}</p>
         <p>{{ page.description }}</p>
         <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
           <h3 class="datasets-count" data-hook="datasets-count"></h3>

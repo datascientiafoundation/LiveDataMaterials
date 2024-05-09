@@ -103,6 +103,8 @@ organization_fields:
     label: Description
   - field_name: logo
     label: Logo
+  - field_name: website
+    label: Website
 
 category_fields:
   - field_name: name
