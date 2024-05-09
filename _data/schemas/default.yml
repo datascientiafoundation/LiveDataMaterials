@@ -72,6 +72,24 @@ dataset_fields:
   - field_name: generating_activity
     label: Generating Activity
     datajson: generating_activity
+  - field_name: trade_name
+    label: Trade Name
+    datajson: trade_name
+  - field_name: brand_name
+    label: Brand Name
+    datajson: brand_name
+  - field_name: manufacturer_name
+    label: Manufacturer Name
+    datajson: manufacturer_name
+  - field_name: manufacturer_registration_number
+    label: Manufacturer Registration Number
+    datajson: manufacturer_registration_number
+  - field_name: manufacturer_registration_country
+    label: Manufacturer Registration Country
+    datajson: manufacturer_registration_country
+  - field_name: image
+    label: Image
+    datajson: image
 
 resource_fields:
   - field_name: name
