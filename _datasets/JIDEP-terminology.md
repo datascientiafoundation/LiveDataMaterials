@@ -17,7 +17,7 @@ category:
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it 
 creator: Feroz Farazi
-creator_email: 'msff2@cam.ac.uk '
+creator_email: 'msff2@cam.ac.uk'
 publisher: JIDEP EU Project
 owner: Univeristy of Cambridge
 validator: Feroz Farazi
