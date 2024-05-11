@@ -7,14 +7,14 @@ resources:
   - name: Material Passport Ontology
     url: >-
       https://github.com/cambridge-cares/TheWorldAvatar/blob/dev-composite-materials-ontology/JPS_Ontology/ontology/ontomatpassport/OntoMatPassportAll.owl
-    format: owl
+    format: OWL
+    modification_datetime: '11/05/2024'
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataMaterials/datasets/JIDEP-terminology/">JIDEP Terminology</a>
     size: '142.2 KB'
 
 category:
   - JIDEP Ontology
-license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
-
+license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 maintainer: Feroz Farazi
 maintainer_email: msff2@cam.ac.uk 
 creator: Feroz Farazi
