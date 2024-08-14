@@ -1,0 +1,16 @@
+<prod-22871346119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<prod-22871346119> <http://purl.org/goodrelations/v1#name> "demonstration-db" .
+<prod-22871346119> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "a" .
+<sad-sad-Bangladesh> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "sad" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-22871346119> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <sad-sad-Bangladesh> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/metre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-22871346119> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "a" .
+<sad-sad-Bangladesh> <http://purl.org/goodrelations/v1#name> "sad" .
+<sad-sad-Bangladesh> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Bangladesh> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<sad-sad-Bangladesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+
