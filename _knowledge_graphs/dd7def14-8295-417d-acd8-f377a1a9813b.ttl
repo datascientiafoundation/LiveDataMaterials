@@ -1,0 +1,16 @@
+<prod-37687788314> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "Testing" .
+<prod-37687788314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<Testing-123-Uganda> <http://purl.org/goodrelations/v1#name> "Testing" .
+<Testing-123-Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/metre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-37687788314> <http://purl.org/goodrelations/v1#name> "Testing" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-37687788314> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <Testing-123-Uganda> .
+<prod-37687788314> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "Testing" .
+<Testing-123-Uganda> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "123" .
+<Testing-123-Uganda> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Uganda> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+
