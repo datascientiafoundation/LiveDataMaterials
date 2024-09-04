@@ -1,0 +1,15 @@
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-68240187082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<http://localhost:8080/source/Czech%20Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://localhost:8080/source/University%20Of%20Pardubice-CZ00216275-Czech%20Republic> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <http://localhost:8080/source/Czech%20Republic> .
+<http://localhost:8080/source/University%20Of%20Pardubice-CZ00216275-Czech%20Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-68240187082> <http://purl.org/goodrelations/v1#name> "ATMEGA328-AU" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-68240187082> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <http://localhost:8080/source/University%20Of%20Pardubice-CZ00216275-Czech%20Republic> .
+<http://localhost:8080/source/University%20Of%20Pardubice-CZ00216275-Czech%20Republic> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "CZ00216275" .
+<http://localhost:8080/source/University%20Of%20Pardubice-CZ00216275-Czech%20Republic> <http://purl.org/goodrelations/v1#name> "University Of Pardubice" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-68240187082> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "Atmel" .
+
