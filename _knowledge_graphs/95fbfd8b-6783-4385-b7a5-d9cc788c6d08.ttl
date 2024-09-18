@@ -1,0 +1,16 @@
+<Update%20Test-123-Uganda> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Uganda> .
+<prod-39063214671> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <Update%20Test-123-Uganda> .
+<Update%20Test-123-Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<Update%20Test-123-Uganda> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "123" .
+<prod-39063214671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/metre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-39063214671> <http://purl.org/goodrelations/v1#name> "Update Test" .
+<Update%20Test-123-Uganda> <http://purl.org/goodrelations/v1#name> "Update Test" .
+<prod-39063214671> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "Update Test" .
+<prod-39063214671> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "Update Test" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+
