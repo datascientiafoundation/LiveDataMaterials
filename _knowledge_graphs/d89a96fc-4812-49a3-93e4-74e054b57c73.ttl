@@ -1,0 +1,17 @@
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<vestas-12345-Italy> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Italy> .
+<vestas-12345-Italy> <http://purl.org/goodrelations/v1#name> "vestas" .
+<prod-1681106647> <http://purl.org/goodrelations/v1#name> "Wind turbine blades" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-1681106647> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <vestas-12345-Italy> .
+<prod-1681106647> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "Vestas" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/millimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-1681106647> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "Vestas" .
+<vestas-12345-Italy> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "12345" .
+<vestas-12345-Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-1681106647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+
