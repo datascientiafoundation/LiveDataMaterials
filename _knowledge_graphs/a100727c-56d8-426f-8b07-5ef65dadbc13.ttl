@@ -1,0 +1,16 @@
+<prod-60924430695> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <Test%20Knowledge%20Graph-233432-Austria> .
+<prod-60924430695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<prod-60924430695> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "Test Knowledge Graph" .
+<Test%20Knowledge%20Graph-233432-Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<Test%20Knowledge%20Graph-233432-Austria> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "233432" .
+<Test%20Knowledge%20Graph-233432-Austria> <http://purl.org/goodrelations/v1#name> "Test Knowledge Graph" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/metre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-60924430695> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "Test Knowledge Graph" .
+<Test%20Knowledge%20Graph-233432-Austria> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Austria> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-60924430695> <http://purl.org/goodrelations/v1#name> "Test Knowledge Graph" .
+
