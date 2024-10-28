@@ -1,0 +1,103 @@
+<http://localhost:8080/source/width-dm-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/htc-46> .
+<http://localhost:8080/source/totalWaste-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/WasteMass> .
+<http://localhost:8080/source/dm-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "29" .
+<http://localhost:8080/source/width-dm-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/DimensionMeasure> .
+<http://localhost:8080/source/ghhh-hhhh-Antigua%20&%20Deps> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "hhhh" .
+<http://localhost:8080/source/recyclingProcessEfficiencyRecycledFeedstock-50> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "50" .
+<http://localhost:8080/source/htc-measure-46> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/L1S8> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/collectedForRecyclingFraction-50> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "50" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "rtrr" .
+<http://localhost:8080/source/length-70> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/length-dm-70> .
+<http://localhost:8080/source/htc-measure-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/HeatTransferCoefficientMeasure> .
+<http://localhost:8080/source/recyclingProcessEfficiencyRecycledFeedstock-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/RecyclingEfficiencyForProducingFeedstock> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/reusedSourcesFraction-0> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/recyclingProcessEfficiencyCollectedMaterial-50> .
+<http://localhost:8080/source/L1S8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Constituent> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/tc-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/ThermalConductivity> .
+<http://localhost:8080/source/mass-measure-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/gram> .
+<http://localhost:8080/source/L1S8> <http://www.theworldavatar.com/kg/ontomatpassport/hasMassInKg> "81.9" .
+<http://localhost:8080/source/totalWaste-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasValueInKg> "0" .
+<http://localhost:8080/source/htc-measure-46> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "46" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Reprehenderit exerci" .
+<http://localhost:8080/source/L1S8> <http://www.theworldavatar.com/kg/ontomatpassport/id> "L1S8" .
+<http://localhost:8080/source/length-dm-70> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "70" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/totalMass-0> .
+<http://localhost:8080/source/dm-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/DensityMeasure> .
+<http://localhost:8080/source/width-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Width> .
+<http://localhost:8080/source/mass-measure-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "91" .
+<http://localhost:8080/source/Antigua%20&%20Deps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/componentReuseFraction-0> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Aliquip aut voluptat" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Adipisicing asperior" .
+<http://localhost:8080/source/d-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Density> .
+<http://localhost:8080/source/htc-46> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/htc-measure-46> .
+<http://localhost:8080/source/componentReuseFraction-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/ProductFractionCollectedForReuse> .
+<http://localhost:8080/source/L1S8> <http://purl.org/goodrelations/v1#name> "ghtht" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasEAN> "46454" .
+<http://localhost:8080/source/tc-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/tc-measure-91> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/mass-91> .
+<http://localhost:8080/source/ghhh-hhhh-Antigua%20&%20Deps> <http://purl.org/goodrelations/v1#name> "ghhh" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/totalWaste-0> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/length-70> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/recycledSourcesFraction-0> .
+<http://localhost:8080/source/totalMass-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/TotalMass> .
+<http://localhost:8080/source/prod-65841697028> <http://purl.org/goodrelations/v1#name> "test 23" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "rrrt" .
+<http://localhost:8080/source/height-dm-37> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/totalVirgin-0> .
+<http://localhost:8080/source/width-dm-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "29" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/width-29> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <http://localhost:8080/source/ghhh-hhhh-Antigua%20&%20Deps> .
+<http://localhost:8080/source/length-dm-70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/DimensionMeasure> .
+<http://localhost:8080/source/mass-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/mass-measure-91> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/tc-91> .
+<http://localhost:8080/source/recycledSourcesFraction-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "0" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/d-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/dm-29> .
+<http://localhost:8080/source/mass-measure-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/MassMeasure> .
+<http://localhost:8080/source/collectedForRecyclingFraction-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/ProductFractionCollectedForRecycling> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/description> "fff fdk tocc " .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasGTIN> "45564" .
+<http://localhost:8080/source/mass-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Mass> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/d-29> .
+<http://localhost:8080/source/dm-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> .
+<http://localhost:8080/source/recycledSourcesFraction-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/FeedstockFractionFromRecycledProduct> .
+<http://localhost:8080/source/indicator-0.22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/MaterialCircularityIndicator> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Dignissimos at dolor" .
+<http://localhost:8080/source/prod-65841697028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<http://localhost:8080/source/reusedSourcesFraction-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/FeedstockFractionFromReusedProduct> .
+<http://localhost:8080/source/totalVirgin-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasValueInKg> "0" .
+<http://localhost:8080/source/htc-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/HeatTransferCoefficient> .
+<http://localhost:8080/source/totalVirgin-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/VirginContentMass> .
+<http://localhost:8080/source/ghhh-hhhh-Antigua%20&%20Deps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/height-37> .
+<http://localhost:8080/source/height-37> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/height-dm-37> .
+<http://localhost:8080/source/width-29> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasValue> <http://localhost:8080/source/width-dm-29> .
+<http://localhost:8080/source/ghhh-hhhh-Antigua%20&%20Deps> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <http://localhost:8080/source/Antigua%20&%20Deps> .
+<http://localhost:8080/source/recyclingProcessEfficiencyCollectedMaterial-50> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "50" .
+<http://localhost:8080/source/height-dm-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/DimensionMeasure> .
+<http://localhost:8080/source/componentReuseFraction-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "0" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Et aliquid quis mole" .
+<http://localhost:8080/source/height-dm-37> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "37" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "In quia non aut cons" .
+<http://localhost:8080/source/totalMass-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasValueInKg> "0" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/recyclingProcessEfficiencyRecycledFeedstock-50> .
+<http://localhost:8080/source/tc-measure-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> "91" .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/collectedForRecyclingFraction-50> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://localhost:8080/source/prod-65841697028> <http://www.theworldavatar.com/kg/ontomatpassport/hasProperty> <http://localhost:8080/source/indicator-0.22> .
+<http://localhost:8080/source/indicator-0.22> <http://www.theworldavatar.com/kg/ontomatpassport/hasIndexValue> "0.22" .
+<http://localhost:8080/source/tc-measure-91> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> .
+<http://localhost:8080/source/reusedSourcesFraction-0> <http://www.theworldavatar.com/kg/ontomatpassport/hasPercentageValue> "0" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.theworldavatar.com/kg/ontomatpassport/hasSymbol> "Voluptas voluptatem " .
+<http://localhost:8080/source/length-70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Length> .
+<http://localhost:8080/source/height-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Height> .
+<http://localhost:8080/source/length-dm-70> <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> .
+<http://localhost:8080/source/recyclingProcessEfficiencyCollectedMaterial-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/RecyclingEfficiencyForPortionCollectedForRecycling> .
+<http://localhost:8080/source/tc-measure-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/ThermalConductivityMeasure> .
+
