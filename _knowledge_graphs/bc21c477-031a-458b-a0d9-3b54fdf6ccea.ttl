@@ -1,0 +1,17 @@
+<http://www.ontology-of-units-of-measure.org/resource/om-2/centimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-98102404559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<prod-98102404559> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "TPI COMPOSITES" .
+<TPI%20COMPOSITES-TR8590561645-Turkey> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "TR8590561645" .
+<prod-98102404559> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <TPI%20COMPOSITES-TR8590561645-Turkey> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-98102404559> <http://purl.org/goodrelations/v1#name> "Utku Tiric" .
+<TPI%20COMPOSITES-TR8590561645-Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-98102404559> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "TPI COMPOSITES" .
+<TPI%20COMPOSITES-TR8590561645-Turkey> <http://purl.org/goodrelations/v1#name> "TPI COMPOSITES" .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/millimetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<Turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<TPI%20COMPOSITES-TR8590561645-Turkey> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Turkey> .
+
