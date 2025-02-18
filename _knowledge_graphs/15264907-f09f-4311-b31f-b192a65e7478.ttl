@@ -1,0 +1,16 @@
+<adf-1254-Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Manufacturer> .
+<adf-1254-Algeria> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationCountry> <Algeria> .
+<prod-97601750356> <http://www.theworldavatar.com/kg/ontomatpassport/hasManufacturer> <adf-1254-Algeria> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerSquareMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/gram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/metre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/kilogramPerCubicmetre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+<prod-97601750356> <http://purl.org/goodrelations/v1#name> "abc" .
+<prod-97601750356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.theworldavatar.com/kg/ontomatpassport/Product> .
+<prod-97601750356> <http://www.theworldavatar.com/kg/ontomatpassport/hasTradeName> "125" .
+<adf-1254-Algeria> <http://www.theworldavatar.com/kg/ontomatpassport/hasRegistrationNumber> "1254" .
+<prod-97601750356> <http://www.theworldavatar.com/kg/ontomatpassport/hasBrandName> "dfd" .
+<adf-1254-Algeria> <http://purl.org/goodrelations/v1#name> "adf" .
+<Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dbpedia.org/ontology/Country> .
+<http://www.ontology-of-units-of-measure.org/resource/om-2/wattPerMetreKelvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
+
